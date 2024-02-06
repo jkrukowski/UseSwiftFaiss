@@ -30,7 +30,7 @@
     {
       "identity" : "swiftfaiss",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/jkrukowski/SwiftFaiss.git",
+      "location" : "https://github.com/jkrukowski/SwiftFaiss",
       "state" : {
         "revision" : "d3831c1e9898695ae7f680b6353e48e873d3f1d3",
         "version" : "0.0.8"

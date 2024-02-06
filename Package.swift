@@ -8,7 +8,7 @@ let package = Package(
         .macOS(.v14)
     ],
     dependencies: [
-        .package(url: "https://github.com/jkrukowski/SwiftFaiss.git", from: "0.0.7")
+        .package(url: "https://github.com/jkrukowski/SwiftFaiss.git", from: "0.0.8")
     ],
     targets: [
         .executableTarget(
